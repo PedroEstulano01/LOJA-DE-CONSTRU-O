@@ -1,0 +1,157 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header, nav, main, footer {
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  main {
+    background-color: #f9f9f9;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 10px;
+  }
+  
+  form input,
+  form textarea,
+  form button {
+  margin-top: 5px;
+  }
+
+  ul#album-fotos {
+    width: 1320px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+    text-align: center; /* Adicionado para centralizar o álbum */
+  }
+  
+  ul#album-fotos li {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 5px solid white;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
+  }
+
+
+
+ul#album-fotos li#foto01{
+  background: url(imagens/foto\ 1.png) no-repeat;
+
+}
+
+
+ul#album-fotos li#foto02{
+  background: url(imagens/foto2.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto03{
+  background: url(imagens/foto3.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto04{
+  background: url(imagens/foto4.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto05{
+  background: url(imagens/foto5.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto06{
+  background: url(imagens/foto15.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto07{
+  background: url(imagens/imagem\ 15.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto08{
+  background: url(imagens/foto7.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto09{
+  background: url(imagens/foto8.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto10{
+  background: url(imagens/foto9.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto11{
+  background: url(imagens/foto10.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto12{
+  background: url(imagens/foto11.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto13{
+  background: url(imagens/foto12.png) no-repeat;
+
+}
+
+ul#album-fotos li#foto14{
+  background: url(imagens/foto13.png) no-repeat;
+
+}
+
+
+
+ul#album-fotos li#foto15{
+  background: url(imagens/foto15.png) no-repeat;
+
+}
+
